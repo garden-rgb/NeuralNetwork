@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDQaRagANj7y7kn78eR586OdjI+5bcwKxOc+1hQ3vDPBLNLkDPTgx97e+2DVHEK3SEUE1MlM11cDnS/VJXgh1w==",
+  "success": true,
+  "projectFilePath": "D:\\Sem5\\MRZ\\Lab1.2\\MRZuIS1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\J\\.nuget\\packages\\mathnet.numerics\\4.12.0\\mathnet.numerics.4.12.0.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\J\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+D:\Sem5\МРЗ\Lab1.2\AutoencoderRNN\obj\Debug\netcoreapp5.12\MRZuIS1.csproj.AssemblyReference.cache
+D:\Sem5\МРЗ\Lab1.2\AutoencoderRNN\obj\Debug\netcoreapp5.12\MRZuIS1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem5\МРЗ\Lab1.2\AutoencoderRNN\obj\Debug\netcoreapp5.12\MRZuIS1.AssemblyInfoInputs.cache
+D:\Sem5\МРЗ\Lab1.2\AutoencoderRNN\obj\Debug\netcoreapp5.12\MRZuIS1.AssemblyInfo.cs
+D:\Sem5\МРЗ\Lab1.2\AutoencoderRNN\obj\Debug\netcoreapp5.12\MRZuIS1.csproj.CoreCompileInputs.cache
